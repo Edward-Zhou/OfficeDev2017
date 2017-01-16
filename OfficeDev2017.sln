@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn", "ExcelAddIn\ExcelAddIn.csproj", "{62A70C1E-EDED-43B7-8904-D82D311D93A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelVSTOAddIn", "ExcelAddIn\ExcelVSTOAddIn.csproj", "{62A70C1E-EDED-43B7-8904-D82D311D93A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAddIn", "OutlookAddIn\OutlookAddIn.csproj", "{66B0E76B-1927-4447-B384-9D6D53F52CC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookVSTOAddIn", "OutlookAddIn\OutlookVSTOAddIn.csproj", "{66B0E76B-1927-4447-B384-9D6D53F52CC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeAPI", "OfficeAPI\OfficeAPI.csproj", "{81587CCC-9C4A-4718-A20D-45763ECDFD7B}"
 EndProject
